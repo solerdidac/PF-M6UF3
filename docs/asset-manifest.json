@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PF-M6UF3/static/css/main.ede68c74.css",
+    "main.js": "/PF-M6UF3/static/js/main.1f5979c8.js",
+    "static/js/453.319546cb.chunk.js": "/PF-M6UF3/static/js/453.319546cb.chunk.js",
+    "index.html": "/PF-M6UF3/index.html",
+    "main.ede68c74.css.map": "/PF-M6UF3/static/css/main.ede68c74.css.map",
+    "main.1f5979c8.js.map": "/PF-M6UF3/static/js/main.1f5979c8.js.map",
+    "453.319546cb.chunk.js.map": "/PF-M6UF3/static/js/453.319546cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ede68c74.css",
+    "static/js/main.1f5979c8.js"
+  ]
+}
